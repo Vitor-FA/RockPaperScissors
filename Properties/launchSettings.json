@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FirstProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "15 59 64 31 10"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
